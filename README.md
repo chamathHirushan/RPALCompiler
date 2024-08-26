@@ -38,7 +38,7 @@ RPAL is an educational programming language designed to explore fundamental conc
 
 The project is organized as follows:
 
-- **Main Directory**: This is where the `rpal20.java` file is located.
+- **Main Directory**: This is where the `myrpal.java` file is located.
 
 ### Included Files and Folders
 
